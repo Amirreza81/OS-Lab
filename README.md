@@ -17,5 +17,5 @@ Each project is accompanied by detailed documentation and reports explaining the
 ### Collaboration:
 I worked on these projects with [Bozorgmehr Zia](https://github.com/BozorgmehrZia).
 
-### Further Resources:
+### Main Page:
 For more information about the course and its materials, please refer to the [Sharif OS-Lab Github](https://github.com/Sharif-OS-Lab).
