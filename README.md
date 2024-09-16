@@ -1,4 +1,4 @@
-# OS-Lab: Operating Systems Laboratory Projects
+# OS-Lab, Sharif University of Technology
 
 This repository contains reports and project implementations developed as part of the *Operating Systems Laboratory* (CE-408) course at **Sharif University of Technology**. The projects focus on the practical aspects of operating system concepts and demonstrate hands-on experience with real-world challenges in system-level programming.
 
