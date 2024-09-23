@@ -21,4 +21,4 @@ I worked on these projects with [Bozorgmehr Zia](https://github.com/BozorgmehrZi
 For more information about the course and its materials, please refer to the [Sharif OS-Lab Github](https://github.com/Sharif-OS-Lab).
 
 ### Contact:
-If you have any question or problem, feel free to contact with [my email](amirrezaazari1381@gmail.com)
+If you have any question or problem, feel free to contact [my email](amirrezaazari1381@gmail.com)
