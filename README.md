@@ -15,7 +15,7 @@ The projects and reports included in this repository cover the following topics:
 Each project is accompanied by detailed documentation and reports explaining the problem statement, approach, and implementation details.
 
 ### Collaboration:
-I worked on these projects with [Bozorgmehr Zia](https://github.com/BozorgmehrZia).
+I worked on these projects with Bozorgmehr Zia.
 
 ### Main Page:
 For more information about the course and its materials, please refer to the [Sharif OS-Lab Github](https://github.com/Sharif-OS-Lab).
